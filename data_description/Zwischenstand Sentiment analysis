@@ -1,0 +1,13 @@
+Hallo,
+
+habe eine paar Artikel eingelesen und das Analysespektrum von textblob-de, soweit mir möglich war, getestet.
+Eine generelle Beschreibung bereite ich für die Präsentation vor.
+
+Die Texte wurden gut eingelesen, es gibt teilweise paar komische Zeichen, aber meistens wenn Kommentare auf einer anderen Sprache geschrieben sind. Dies gilt halt für meine kleine Stichprobe
+
+Generell hätte ich gedacht, dass wir die Artikeltexte der Sentimentanalyse unterwerfen und die Kommentare gesondert. Hier hab ich mal pro Satz eine Analyse erstellt, da könnten wir noch weiter aggregieren (wieviele positiv / wieviele negativ?, rel.Häufigkeit, usw.)
+
+mein nächster Schritt wäre das Einlesen des gesamten Textordners, das habe ich leider noch nicht geschafft.
+
+MfG,
+Katalin
