@@ -8,8 +8,8 @@ Ein Projekt im Rahmen des Kurses Datenquellen und Datenaufbereitung. Das Ziel de
 #### Daten analysieren
 * Lesbarkeitsindex berechnen -- _Christoph_
 * Sentiment von Texten bestimmen -- _Katalin_
-* _(optional)_ Die oben genannten Parameter im zeitlichen Verlauf analysieren -- _Stefan_
-* _(optional, Voraussetzung: mind. zwei Datenquellen)_ Quellen miteinander vergleichen, z.B. durchschnittlichen Lesbarkeitsindex mit t-test
+* Die oben genannten Parameter im zeitlichen Verlauf analysieren -- _Stefan_
+* Quellen miteinander vergleichen, z.B. durchschnittlichen Lesbarkeitsindex mit t-test
 #### Ergebnisse darstellen
 * Ergebnisse visualisieren
 * Präsentation des Projektes vorbereiten
